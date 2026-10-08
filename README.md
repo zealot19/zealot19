@@ -91,7 +91,7 @@ I'm a Software Engineering graduate who builds **fullstack web solutions with re
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zealot19&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 </p>
 
 ---
